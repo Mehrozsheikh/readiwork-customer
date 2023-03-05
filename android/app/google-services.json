@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "578513575936",
+    "firebase_url": "https://readiwork3-default-rtdb.firebaseio.com",
+    "project_id": "readiwork3",
+    "storage_bucket": "readiwork3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578513575936:android:a1de901fdfa819519c38e5",
+        "android_client_info": {
+          "package_name": "com.readiwork.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578513575936-vu4te2b66080ksuj2smmmr77sjfhvg57.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.readiwork.app",
+            "certificate_hash": "79a2b7de3e2e3fc3c8382904473afe2a79224d2e"
+          }
+        },
+        {
+          "client_id": "578513575936-t9lkas155mag0kkcsm5j2sjkf86oou4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNDtKD514ceJ58pceM7oceCOS4zjboqow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578513575936-0gm1gi76vmmnh7psbvnappriikcg11vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578513575936:android:ed4e1a957f664c7c9c38e5",
+        "android_client_info": {
+          "package_name": "com.readiwork.provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578513575936-7l5lnv7vov7d9qa0fr123f3m02eo42jt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.readiwork.provider",
+            "certificate_hash": "79a2b7de3e2e3fc3c8382904473afe2a79224d2e"
+          }
+        },
+        {
+          "client_id": "578513575936-t9lkas155mag0kkcsm5j2sjkf86oou4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNDtKD514ceJ58pceM7oceCOS4zjboqow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578513575936-0gm1gi76vmmnh7psbvnappriikcg11vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578513575936:android:31f99cb8ebfbc8149c38e5",
+        "android_client_info": {
+          "package_name": "com.readiwork.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578513575936-0ou83i3gh7h6v4r7t08l32a5lnulcap1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.readiwork.store",
+            "certificate_hash": "79a2b7de3e2e3fc3c8382904473afe2a79224d2e"
+          }
+        },
+        {
+          "client_id": "578513575936-t9lkas155mag0kkcsm5j2sjkf86oou4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNDtKD514ceJ58pceM7oceCOS4zjboqow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578513575936-0gm1gi76vmmnh7psbvnappriikcg11vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578513575936:android:e85e6894512f41a49c38e5",
+        "android_client_info": {
+          "package_name": "com.readiwork.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578513575936-ih06q5iokurj84tc7knjq9t7th6j54h5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.readiwork.user",
+            "certificate_hash": "79a2b7de3e2e3fc3c8382904473afe2a79224d2e"
+          }
+        },
+        {
+          "client_id": "578513575936-t9lkas155mag0kkcsm5j2sjkf86oou4a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNDtKD514ceJ58pceM7oceCOS4zjboqow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578513575936-0gm1gi76vmmnh7psbvnappriikcg11vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
